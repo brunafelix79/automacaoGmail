@@ -1,4 +1,4 @@
-![Outlook Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Microsoft_Outlook_2013-2019_logo.svg/1200px-Microsoft_Outlook_2013-2019_logo.svg.png)
+![Outlook Logo](https://outlookiniciarsesion01.weebly.com/uploads/9/8/5/4/98549006/outlook_orig.jpg)
 
 # Processo de Envio de E-mails em Massa / Gmail
 
