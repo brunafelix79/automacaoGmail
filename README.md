@@ -1,3 +1,5 @@
+![Gmail Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)
+
 # Processo de Envio de E-mails em Massa / Gmail
 
 Este script em Python realiza o envio de e-mails em massa a partir de informações contidas em um arquivo Excel, permitindo a inclusão opcional de anexos PDF e imagens. Ele utiliza bibliotecas como `pandas`, `smtplib`, `email` e `PySimpleGUI` para manipulação de dados, envio de e-mails e criação de interface gráfica. Abaixo, detalhamos o funcionamento de cada etapa do processo:
